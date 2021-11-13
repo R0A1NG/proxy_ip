@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.7
+futures==3.1.1
+idna==3.3
+progress==1.6
+pycryptodome==3.11.0
+PyMySQL==1.0.2
+requests==2.26.0
+tomorrow==0.2.4
+urllib3==1.26.7
